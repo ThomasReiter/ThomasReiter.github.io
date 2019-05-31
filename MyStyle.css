@@ -11,11 +11,14 @@ h1,h2,h3,h4,h5,h6{
     
 }
 
+pre{
+    font-size: 15px;
+    
+}
+
 p{
     font-family: "Georgia",serif;
 }
-
-
 
 #myHeader {
   background-color: lightblue;
@@ -24,6 +27,7 @@ p{
   text-align: center;
   font-family: sans-serif;
   border: 5px solid black;
+  font-size: 25px;
 }
 
 #myBikeHeader {
@@ -33,6 +37,7 @@ p{
     text-align: center;
     font-family: cursive;
     border: 5px solid black;
+    font-size: 25px;
 }
 #BikeTypesHeader {
     background-color: lightblue;
@@ -41,6 +46,7 @@ p{
     text-align: center;
     font-family: monospace;
     border: 5px solid black;
+    font-size: 25px;
 }
 
 .panList {
