@@ -1,0 +1,103 @@
+header{
+    text-align: center;
+    border: 5px solid black;
+	color: black;
+}
+
+
+
+
+body{
+	
+	background-color: lightblue;
+	
+}
+
+h1,h2,h3,h4,h5,h6{
+    
+    font-family: "Verdana",sans-serif;
+    font-weight: bold;
+    
+}
+
+p{
+    font-family: "Georgia",serif;
+}
+
+
+
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 10px;
+  text-align: center;
+    font-family: sans-serif;
+}
+
+#myBikeHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+    
+}
+#BikeTypesHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-family: monospace;
+    
+}
+
+.panList {
+    font-family: cursive;
+}
+
+#audio{
+    position: relative;
+    width: 70%;
+    left: 15%;
+    text-align: center
+    
+}
+
+.leftList{
+    position: absolute;
+    
+    
+}
+
+.rightList {
+    position: absolute;
+    left: 50%;
+    
+    
+}
+
+.panListHeader{
+    text-align: center;
+    
+}
+
+.BackLink{
+    position: relative;
+    bottom: 10%;
+}
+
+.BackLink2{
+    position: absolute;
+    bottom: 10%;
+}
+
+.pspic{
+    width: 30%;
+    right: 90%;
+    
+}
+
+
+img{
+    width: 40%;
+}
